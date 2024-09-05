@@ -1,0 +1,2 @@
+amount: 22, Date: 02/01/2001 00:00:00, Description: Shopping
+amount: 24, Date: 01/01/2014 00:00:00, Description: Taxes
